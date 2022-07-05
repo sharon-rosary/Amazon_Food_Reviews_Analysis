@@ -5,4 +5,4 @@ Performed Sentiment Analysis to determine sentiment polarity of data set and vis
 
 Employed Text Analysis using Latent Dirichlet Allocation (LDA) technique to find a theme across customer reviews
 
-The goal of this assignment is to identify a common theme across reviews and determine hidden patterns within the data. This analysis can help in predicting the preferences of customers and provide feedback to the respective supplier. Additionally, it can help Amazon understand customer preferences better and recommend products accordingly. 
+The goal of this project is to identify a common theme across reviews and determine hidden patterns within the data. This analysis can help in predicting the preferences of customers and provide feedback to the respective supplier. Additionally, it can help Amazon understand customer preferences better and recommend products accordingly. 
